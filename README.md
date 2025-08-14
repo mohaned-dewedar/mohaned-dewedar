@@ -1,78 +1,31 @@
+# 👋 Hey, I’m Moe  
 
-# Moe Dewedar
+**Aspiring ML/AI Engineer · OMSCS Master’s Student**  
 
-**AI Engineer · Masters Student**
+I build AI-driven apps — from quick proof-of-concepts to production-ready systems. My main playground is **Python** (Flask / FastAPI) + a bit of JS for the front end, and I use **Streamlit** or **Gradio** when I want to spin up something fast.  
 
-I build AI-driven solutions with LLMs, computer vision, and AWS — from prototype to production. I have a passion for building machine learning systems with real-world impact. When I’m not shipping models, I’m gaming competitively and streaming.
-
-[GitHub](https://github.com/mohaned-dewedar) · [LinkedIn](https://linkedin.com/in/mohaned-dewedar) · [Twitter](https://twitter.com/thecherryo) · [Email](mailto:m.dewedar97@gmail.com)
-
----
-
-## �️ Career Timeline
-- **2015**: Started B.S. Mechatronics Engineering, Ain Shams University
-- **Jan 2022**: Data Analyst, Dina Pharmacy
-- **June 2023**: Data Scientist, FlairsTech
-- **Aug 2024**: Started M.S. CS (OMSCS), Georgia Tech, ML specialization
-- **Feb 2025**: Service Desk Analyst, K2 Services
+Right now, I’m diving deep into **Bayesian Statistics** and **Operating Systems** at Georgia Tech, and I’ve already taken 4 OMSCS courses. Next up, I’m eyeing **High Performance Computing**, **Distributed Systems**, **Advanced OS**, **Reinforcement Learning**, **NLP**, and maybe even **GPU Programming**.  
 
 ---
 
-## 🚀 Featured Projects
-
-### [CherryBott — Twitch x LLM Smite Bot](https://github.com/mohaned-dewedar/my-twitch-bot)
-Twitch chatbot powered by local LLMs for chat Q&A and trivia, designed for Smite2 gaming interaction. *(Python, LLM, Twitch API, Ollama, Websockets)*
-
-### [Sift Cropper — Semi-Automated Image Annotation Tool](https://github.com/mohaned-dewedar/template-labeler)
-SIFT-based image processing tool for automatic cropping and annotation of gameplay maps. *(Python, SIFT, Flask, React, OpenCV)*
-
-### [Rule Generator — Natural Language to JSON Engine](https://github.com/mohaned-dewedar/output_parsing.git)
-Streamlit app converting English business rules to structured JSON using GPT-4 and MongoDB. *(Python, Streamlit, GPT-4, MongoDB, Pydantic)*
-
-### [Personal Website](https://github.com/mohaned-dewedar/mohaned-dewedar.github.io)
-Portfolio website built with Jekyll, showcasing projects, blog posts, and resume. *(Jekyll, HTML, CSS, JavaScript)*
-
-### Strategy Evaluation
-Compared rule-based vs random forest strategies for trading using technical indicators. *(Python, Trading, Random Forest)*
-
-### Transformers for Sequence Modeling
-Implemented Transformer and Seq2Seq models for language translation with attention. *(PyTorch, Transformers, NLP)*
-
-### Audio Classification on Edge Devices
-Compared CNNs and Transformers for audio classification on edge devices using knowledge distillation. *(CNN, Transformers, Edge AI)*
-
-### Mechanization of Handmade Kiln Looms
-Graduation project automating handwoven kilns with custom machinery and software. *(Mechanical Design, Embedded Systems, Automation)*
-
-### Machine Vision Controlled Robot Arm
-6DoF robotic arm controlled via machine vision and motion planning. *(Machine Vision, Robotics, Motion Planning)*
-
-### Delivery UAV Robot
-Led UAV robot development for indoor navigation using UV light, sensors, and machine vision. *(UAV, Sensors, CoppeliaSim)*
-
-### 6DoF Manipulator Modeling and Control
-Modeled a 6DoF manipulator in Gazebo with MoveIt and ROS for trajectory planning. *(ROS, Gazebo, MoveIt, C++)*
-
-### Production Line Integration
-Designed a production line with conveyors, sensors, and motors for automated assembly/disassembly. *(Automation, Mechatronics, Sensors)*
-
-### Automatic Sensing Wheelchair
-Smart wheelchair with obstacle detection and vibration feedback for user alerts. *(Embedded Systems, Assistive Tech)*
+## 🔥 What I’m Working On  
+- **🎮 Twitch x AI Smite Bot** – A chatbot that uses RAG to answer Smite questions and trivia, with a leaderboard system coming soon so other streamers can use it.  
+- **📍 Player Coordinate Prediction** – Exploring models to predict player positions from game state data (hard part: actually gathering that data).  
 
 ---
 
-## 📫 Additional Links
-- [Home](https://mohaned-dewedar.github.io/)
-- [Projects](https://mohaned-dewedar.github.io/projects)
-- [Experience](https://mohaned-dewedar.github.io/experience)
-- [Education](https://mohaned-dewedar.github.io/education)
-- [Certificates](https://mohaned-dewedar.github.io/certificates)
-- [Esports](https://mohaned-dewedar.github.io/esports)
-- [About](https://mohaned-dewedar.github.io/about)
-- [Contact](https://mohaned-dewedar.github.io/contact)
-- [Resume (PDF)](https://mohaned-dewedar.github.io/resume.pdf)
+## 💡 Stuff I’ve Done Before  
+- Built chatbots, RAG pipelines, Q&A systems, and agent workflows.  
+- Worked on image annotation tools, business-rule-to-JSON converters, and various ML prototypes.  
+- Plenty of mechatronics/robotics projects back in undergrad — from UAVs to machine vision arms.  
 
 ---
 
-*This README was auto-generated from [my portfolio](https://mohaned-dewedar.github.io/).* 
+---
 
+## 📫 Let’s Connect  
+[GitHub](https://github.com/mohaned-dewedar) · [LinkedIn](https://linkedin.com/in/mohaned-dewedar) · [Portfolio] (https://mohaned-dewedar.github.io) · [Twitter](https://twitter.com/thecherryo) · [Email](mailto:m.dewedar97@gmail.com)  
+
+---
+
+💬 _“It's cool to try and it is cool to care.”_ — Benjamin "CaptainTwig" Knight
