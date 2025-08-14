@@ -24,7 +24,7 @@ Right now, I’m diving deep into **Bayesian Statistics** and **Operating System
 ---
 
 ## 📫 Let’s Connect  
-[GitHub](https://github.com/mohaned-dewedar) · [LinkedIn](https://linkedin.com/in/mohaned-dewedar) · [Portfolio] (https://mohaned-dewedar.github.io) · [Twitter](https://twitter.com/thecherryo) · [Email](mailto:m.dewedar97@gmail.com)  
+[GitHub](https://github.com/mohaned-dewedar) · [LinkedIn](https://linkedin.com/in/mohaned-dewedar) · [Portfolio](https://mohaned-dewedar.github.io) · [Twitter](https://twitter.com/thecherryo) · [Email](mailto:m.dewedar97@gmail.com)  
 
 ---
 
