@@ -17,7 +17,7 @@ Right now, I’m diving deep into **Bayesian Statistics** and **Operating System
 ## 💡 Stuff I’ve Done Before  
 - Built chatbots, RAG pipelines, Q&A systems, and agent workflows.  
 - Worked on image annotation tools, business-rule-to-JSON converters, and various ML prototypes.  
-- Plenty of mechatronics/robotics projects back in undergrad — from UAVs to machine vision arms.  
+- Plenty of mechatronics/robotics projects back in undergrad from circuits to robots.
 
 ---
 
