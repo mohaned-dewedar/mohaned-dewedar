@@ -28,4 +28,4 @@ Right now, I’m diving deep into **Bayesian Statistics** and **Operating System
 
 ---
 
-💬 _“It's cool to try and it is cool to care.”_ — Benjamin "CaptainTwig" Knight
+💬 _“It's cool to try, it's cool to care.”_ — Benjamin "CaptainTwig" Knight
