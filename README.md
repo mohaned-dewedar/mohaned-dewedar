@@ -2,13 +2,12 @@
 
 **Aspiring ML/AI Engineer · OMSCS Master’s Student**  
 
-I build AI-driven apps — from quick proof-of-concepts to production-ready systems. My main playground is **Python** (Flask / FastAPI) + a bit of JS for the front end, and I use **Streamlit** or **Gradio** when I want to spin up something fast.  
-
-Right now, I’m diving deep into **Bayesian Statistics** and **Operating Systems** at Georgia Tech, and I’ve already taken 4 OMSCS courses. Next up, I’m eyeing **High Performance Computing**, **Distributed Systems**, **Advanced OS**, **Reinforcement Learning**, **NLP**, and maybe even **GPU Programming**.  
+I build AI-driven apps, from quick prototypes to production-ready systems using Python (Flask, FastAPI), JS, and rapid tools like Streamlit or Gradio.
+Right now, I’m diving deep into **Bayesian Statistics** and **Operating Systems** at Georgia Tech, and I’ve already taken 4 OMSCS courses. Next up, I’m eyeing Systems (HPC, Distributed, OS, GPU) vs. AI (RL, NLP).
 
 ---
 
-## 🔥 What I’m Working On  
+## 🔥Fun Projects I’m Working On  
 - **🎮 Twitch x AI Smite Bot** – A chatbot that uses RAG to answer Smite questions and trivia, with a leaderboard system coming soon so other streamers can use it.  
 - **📍 Player Coordinate Prediction** – Exploring models to predict player positions from game state data (hard part: actually gathering that data).  
 
